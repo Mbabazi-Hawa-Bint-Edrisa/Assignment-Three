@@ -1,0 +1,24 @@
+.p-1 {
+    color:aqua;
+}
+.p-2 {
+    color:aquamarine;
+}
+.p-3 {
+    color:brown;
+}
+.p-4 {
+    color:#8a2be2;
+}
+.p-5 {
+    color:chartreuse;
+}
+
+#my-student-number
+ {
+    background-color: rgb(224, 85, 85);
+}
+
+body{
+    background-color: beige;
+}

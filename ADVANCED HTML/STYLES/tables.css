@@ -1,0 +1,15 @@
+ tables th,td {
+          border: 3px;
+          border-style:dotted;
+          border-color: rgb(99, 99, 114);
+          border-collapse: collapse;
+          
+ }
+          tr:nth-child(even) {
+            background-color: chocolate;
+          }
+   
+          
+ body{
+    background-color: blanchedalmond;
+ }
